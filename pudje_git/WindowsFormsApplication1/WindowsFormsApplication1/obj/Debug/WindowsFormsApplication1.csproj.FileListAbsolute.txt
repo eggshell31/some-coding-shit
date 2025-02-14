@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\РСПСИТ\pudje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Student\Desktop\РСПСИТ\pudje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Student\Desktop\РСПСИТ\pudje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Student\Desktop\РСПСИТ\pudje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\РСПСИТ\pudje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.S.resources
+C:\Users\Student\Desktop\РСПСИТ\pudje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Student\Desktop\РСПСИТ\pudje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\РСПСИТ\pudje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Student\Desktop\РСПСИТ\pudje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Student\Desktop\РСПСИТ\pudje_git\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Student\Desktop\РСПСИТ\pudje_git\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Student\Desktop\РСПСИТ\pudje_git\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Student\Desktop\rsppp\pudje_git\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Student\Desktop\rsppp\pudje_git\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Student\Desktop\rsppp\pudje_git\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
